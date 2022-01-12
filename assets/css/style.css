@@ -20,7 +20,7 @@
             --text-color:         #8E8E8E; 
             --headings-color:     #8E8E8E;      
             --logo-color:         #FFFFFF;
-            --hero-height:        10vh;
+            --hero-height:        20vh;
             --hero-bg:            #FFFFFF;
             --hero-heading-color: #2F323A;
             --hero-text-color:    #2F323A;
@@ -31,7 +31,7 @@
          
          @media all and (min-width: 56.25em) {
             :root {
-               --navbar-height: 0rem;
+               --navbar-height: 1rem;
             }
       }@charset "UTF-8";
 article,
